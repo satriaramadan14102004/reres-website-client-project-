@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Calendar, Clock } from 'lucide-react';
 
-const MEETING_DATE = new Date('2024-09-09T00:00:00+07:00');
+const MEETING_DATE = new Date('2024-24-07T00:00:00+07:00');
 
 const format = (value, digits = 2) => value.toString().padStart(digits, '0');
 
@@ -53,10 +53,10 @@ export default function LoveCounter() {
           <div className="flex flex-col items-center gap-3">
             <div className="flex items-center gap-3 text-rose-500/80 dark:text-rose-200/90">
               <Calendar className="h-6 w-6" />
-              <p className="text-sm uppercase tracking-[0.4em]">Sejak 09 September 2024</p>
+              <p className="text-sm uppercase tracking-[0.4em]">Sejak 24 Juli 2024</p>
             </div>
             <h2 className="section-heading text-3xl font-semibold text-slate-900 sm:text-4xl dark:text-white">
-              Menghitung waktu kita yang terus bertumbuh
+              The Day That I Lose You
             </h2>
             {/* <p className="max-w-xl text-sm text-slate-300/90">
               Setiap detik membawa cerita baru.
@@ -88,7 +88,7 @@ export default function LoveCounter() {
 
           <div className="flex items-center gap-3 text-xs uppercase tracking-[0.35em] text-slate-500/90 dark:text-slate-400/90">
             <Clock className="h-4 w-4" />
-            <p>Terus berjalan bersama seperti alunan musik ini</p>
+            <p>See you and i'll ready missing you</p>
           </div>
         </div>
       </div>

@@ -50,19 +50,19 @@ const basePhotoLibrary = [
   {
     id: '01',
     assetKey: 'memory1',
-    title: 'Putih Abu Era',
+    title: 'Pulang sekolah',
     description:
       'Masa putih abu',
     tone: 'from-rose-400/45 via-transparent to-transparent',
-    meta: ['Bogor Jawa Barat'],
+    meta: ['Rumah athaya'],
   },
   {
     id: '02',
     assetKey: 'memory2',
     title: 'Kamu dan malam dikala itu',
-    description: 'Malam jadi saksi tentang cerita kita',
+    description: 'hei apa kabar? gimana bandung? hold you like the way i do? seperti biasa, i miss you so much, i miss u maaf belum bisa lupain kamu dan maaf masih suka ngasih signal',
     tone: 'from-sky-400/45 via-transparent to-transparent',
-    meta: ['Malam Dibogor'],
+    meta: ['Our home','Taman heulang'],
   },
   {
     id: '03',
@@ -75,10 +75,10 @@ const basePhotoLibrary = [
   {
     id: '04',
     assetKey: 'memory4',
-    title: 'Malam jadi saksi kisah kita terus ya wkwkwk',
-    description: 'Bahkan matahari terlihat iri kepada bulan, yang selalu bisa melihat kita tertawa dibawah nya',
+    title: 'Hahaha I miss you gitarisku paling manis',
+    description: 'Demi allah gua kangen gitaran dan nyanyi bareng lu anjing',
     tone: 'from-emerald-300/40 via-transparent to-transparent',
-    meta: ['Bogor Malam hari'],
+    meta: ['Taman Heulang'],
   },
   {
     id: '05',
@@ -91,7 +91,7 @@ const basePhotoLibrary = [
   {
     id: '06',
     assetKey: 'memory6',
-    title: 'Ulang Tahun Alika',
+    title: '..',
     description: '..',
     tone: 'from-fuchsia-300/35 via-transparent to-transparent',
     meta: [''],
@@ -99,24 +99,24 @@ const basePhotoLibrary = [
   {
     id: '07',
     assetKey: 'memory7',
-    title: 'Tangan kecil',
-    description: 'Tangan kecil aku memang gaakan bisa melawan seluruh dunia yang menyerangmu, tapi tangan kecil ku akan selalu ada disaat kamu butuh rangkulan',
+    title: 'Taheul lost us, and i lost you',
+    description: 'Cinta yang ku titipkan di ujung doa mungkin tidak pernah sampai kepadamu. tapi setiap kali ku ingat, rasa itu tetap hangat, meski tak punya lagi arahnya untuk pulang, Namun sialnya aku selalu mau pulang ketempat yang ada kamu, yang cuman ada kita berdua di dalamnya.',
     tone: 'from-fuchsia-300/35 via-transparent to-transparent',
-    meta: ['Taman'],
+    meta: ['Taman heulang lagi :v'],
   },
   {
     id: '08',
     assetKey: 'memory8',
-    title: 'Putih Abu Era',
-    description: 'Ini random photo kita pas masa putih abu wkwkw',
+    title: 'Thuesday, 04 Nov 2025',
+    description: 'Ini tepat 3 bulan 12 hari after we lost...kamu dibandung, aku dibogor, tapi dijalan aku selalu cari cari kamu :(',
     tone: 'from-fuchsia-300/35 via-transparent to-transparent',
-    meta: [''],
+    meta: ['Rumah athaya lagi'],
   },
   {
     id: '09',
     assetKey: 'memory9',
-    title: 'Nyender ko ketembok, kebahu lah',
-    description: 'daripada nyindir mending nyender kids wkwkk',
+    title: '',
+    description: 'terimakasih untuk ragamu yang pernah jatuh cinta padaku, untuk mata yang dulu menatapku seolah aku satu satunya tempat pulang, terimakasih untuk waktu, untuk setiap “hati hati dijalan” “jangan pegang hp kalau lagi bawa motor” walaupun harusnya kamu tau aku sejago itu hahaha, untuk perhatian kecil lainnya yang sekarang hanya jadi kenangan samar.',
     tone: 'from-fuchsia-300/35 via-transparent to-transparent',
     meta: ['Bogor'],
   },
@@ -270,7 +270,7 @@ export default function LoveGallery() {
       >
         <p className="text-xs uppercase tracking-[0.4em] text-slate-500/90 dark:text-slate-400/90">Perpustakaan visual</p>
         <h2 className="section-heading mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl dark:text-white">
-          Momen yang bergerak setiap kamu menggulirnya
+          This is how our memories replay in my head
         </h2>
         {/* <p className="mt-3 max-w-2xl text-sm text-slate-300/90">
           Arsip zigzag ini dibuat supaya setiap foto punya ruang untuk bernapas—animasi lembut mengantar kamu melompat
