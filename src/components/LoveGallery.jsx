@@ -123,10 +123,10 @@ const basePhotoLibrary = [
   {
     id: '10',
     assetKey: 'memory10',
-    title: 'Natureee',
-    description: 'Seperti kalanya rimbun pepohonan, semoga kamu selalu melindungiku',
+    title: '',
+    description: 'Terimakasih karna pernah bikin dunia ku terasa ringan akan hadir nya kamu dihari hari ku, kalau surat kecil super alay ini udah sampe ke kamu itu tandanya aku benar benar melepasmu .. karna aku percaya kamu pantas mendapatkan cinta sejatimu juga. you were a soft chapter, the kinda pain that still feels warm .. after all the pain, temuin cinta kamu ya? semoga ga sesakit waktu sama aku kemarin ❤‍🩹 maafin kalo waktu sama aku kemarin ga sebahagia yang kamu harapkan, tapi andai kamu tau, aku udah ngasih semua dunia aku ke kamu, bahkan aku lebih sayang kamu dari pada diri aku sendiri. aku bakal nyimpen kamu di tempat yang terbaik, sangat baik, yang paling baik. untuk kenangan kita dan semua kebaikan kamu, God knows i love you so much poy 💕  bahagia selalu sipitku , nama kamu bakal selalu aku selipin di setiap doa yang aku panjatkan, b happy n b healthy, sukses selalu yaaa 🤜🏻⿢⿣🤛🏻kisah ini bakal abadi di hidup aku. salam hangat dari aku yeyes, princess nya kamu ☹🤍',
     tone: 'from-fuchsia-300/35 via-transparent to-transparent',
-    meta: ['Pohon dibogor'],
+    meta: ['Bogor'],
   },
 ];
 
