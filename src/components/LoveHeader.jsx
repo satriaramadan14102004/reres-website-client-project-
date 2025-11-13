@@ -26,7 +26,7 @@ export default function LoveHeader() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1.2, delay: 0.25 }}
       >
-        Menyulam Kenangan, Menyatu Dalam Lantunan <span className="text-rose-500 dark:text-rose-300">"Akhir Perang"</span>
+        Mengingat kembali bahwa semua yang datang pasti akan pergi, yang terbungkus dengan sebuah lagu<span className="text-rose-500 dark:text-rose-300">"Hati hati dijalan"</span>
       </motion.h1>
 
       <motion.p
@@ -35,8 +35,7 @@ export default function LoveHeader() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.4 }}
       >
-        Setiap scroll adalah adegan baru—mengajak kita menyelami kembali detik-detik yang membuat hati kita bersatu, diiringi melodi
-        hangat dari Nadin Amizah yang memeluk seluruh cerita kita.
+        Setiap scroll adalah kenangan kita, yang tidak akan pernah hilang dalam sebuah memori ingatan.
       </motion.p>
 
       <motion.div
@@ -59,9 +58,9 @@ export default function LoveHeader() {
         <div className="glass-panel relative flex w-full max-w-xs items-center justify-between rounded-3xl px-6 py-3 text-left text-slate-900 dark:text-slate-100">
           <div>
             <p className="text-xs uppercase tracking-[0.3em] text-slate-500 dark:text-slate-300">Soundtrack</p>
-            <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">Akhir Perang</p>
+            <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">Hati Hati Di Jalan</p>
           </div>
-          <span className="text-xs text-slate-500 dark:text-slate-300">Nadin Amizah</span>
+          <span className="text-xs text-slate-500 dark:text-slate-300">Tulus</span>
         </div>
       </motion.div>
     </motion.section>

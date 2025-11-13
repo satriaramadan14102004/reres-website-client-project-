@@ -109,8 +109,8 @@ export default function LoveMusic() {
           </div>
           <div>
             <p className="text-xs uppercase tracking-[0.35em] text-rose-500/80 dark:text-rose-200/80">Soundtrack</p>
-            <p className="text-base font-semibold text-slate-900 dark:text-slate-100">Akhir Perang</p>
-            <p className="text-xs text-slate-500/90 dark:text-slate-300/90">Nadin Amizah</p>
+            <p className="text-base font-semibold text-slate-900 dark:text-slate-100">Hati Hati Di Jalan</p>
+            <p className="text-xs text-slate-500/90 dark:text-slate-300/90">Tulus</p>
           </div>
         </div>
 

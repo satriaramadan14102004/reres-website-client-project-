@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion, useScroll } from 'framer-motion';
 import LoveHeader from './components/LoveHeader';
-import LoveCounter from './components/LoveCounter';
+// import LoveCounter from './components/LoveCounter';
 import LoveGallery from './components/LoveGallery';
 import LoveMusic from './components/LoveMusic';
 import CinematicBackground from './components/CinematicBackground';
@@ -31,7 +31,7 @@ export default function App() {
 
       <main className="relative z-30 mx-auto flex w-full max-w-6xl flex-col gap-32 px-6 pb-32 pt-24 sm:px-10">
         <LoveHeader />
-        <LoveCounter />
+        {/* <LoveCounter /> */}
         <LoveGallery />
       </main>
 
