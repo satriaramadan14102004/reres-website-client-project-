@@ -91,8 +91,8 @@ const basePhotoLibrary = [
   {
     id: '06',
     assetKey: 'memory6',
-    title: '',
-    description: '',
+    title: 'Surat yang kamu kasih waktu aku ultah',
+    description: 'Hahaha persis kamu suratnya, manis manis banget anj mis. kalau aku lagi kangen kamu aku selalu baca surat ini, kalau engga foto foto kita dan yang paling sering adalah aku baca ulang chattan kita',
     tone: 'from-fuchsia-300/35 via-transparent to-transparent',
     meta: [''],
   },
